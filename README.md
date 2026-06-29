@@ -27,7 +27,7 @@ App de inventario completa con autenticación, CRUD y subida de imágenes.
 ✔ Alertas con SweetAlert2  
 
 **Tech:** React · Vite · Supabase · Tailwind CSS  
-🔗 [Ver repositorio](https://github.com/Elias-Guardado/SysInventario)
+🔗 [Ver repositorio](https://github.com/Elias-J-Guardado/Sys-Inventario.git)
 
 ---
 
@@ -39,7 +39,7 @@ Landing page para cliente real con formulario de contacto funcional.
 ✔ Mapa interactivo con OpenStreetMap  
 
 **Tech:** HTML · CSS · JavaScript vanilla  
-🔗 [Ver repositorio](https://github.com/Elias-Guardado/GlobosYFloresAR)
+🔗 [Ver repositorio](https://github.com/Elias-J-Guardado/globosyfloresAR.git)
 
 ---
 
@@ -50,7 +50,7 @@ Landing page para negocio ficticio de restauración de autos.
 ✔ Totalmente responsivo  
 
 **Tech:** React · Vite · Tailwind CSS v4  
-🔗 [Ver repositorio](https://github.com/Elias-Guardado/CarGrow)
+🔗 [Ver repositorio](https://github.com/Elias-J-Guardado/landing-page-example-react.git)
 
 ---
 
@@ -61,7 +61,7 @@ Predictor de retrasos de vuelos con visualización de datos.
 ✔ Visualización de resultados en frontend  
 
 **Tech:** Python · React  
-🔗 [Ver repositorio](https://github.com/Elias-Guardado/FlightOnTime)
+🔗 [Ver repositorio](https://github.com/javigt1971/flightontime.git)
 
 ---
 
