@@ -97,9 +97,8 @@ Predictor de retrasos de vuelos con visualización de datos.
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Wellfound](https://img.shields.io/badge/Wellfound-000000?style=flat-square&logo=angellist&logoColor=white)](https://wellfound.com/u/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://tu-portfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-jimenez-guardado/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://portafolio-elias-guardado.netlify.app/)
 
 ---
 
